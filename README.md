@@ -4,7 +4,7 @@
    ```bash
    git clone https://github.com/Bhavesh1513/HTML-Assignment.git
 
-   ## Open the folder
+## Open the folder
       Double-click index.html OR right-click → Open with browser
 
 ## Project live link:
