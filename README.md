@@ -12,5 +12,6 @@
    https://bhavesh1513.github.io/HTML-Assignment/
 
 ## Image:
-<img width="989" height="843" alt="image" src="https://github.com/user-attachments/assets/1b2a06ee-8dad-4e44-9f92-5646c70d7aad" />
 
+
+<img width="965" height="905" alt="Resume" src="https://github.com/user-attachments/assets/54ecf5ae-d608-4a88-a33b-1d6719ed160d" />
